@@ -1,0 +1,26 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.jeff {
+    width: 150px
+}
+
+.card {
+    width: 400px;
+    padding: 20px;
+    margin: 0px auto;
+    display: block;
+    text-align: center;
+    background: #7bf1a8;
+    color: #0a0908;
+    border-bottom: 20px solid #001f54;
+    
+    
+}
+
+.border-blue {
+     border: 1px dotted blue;
+    
+}
